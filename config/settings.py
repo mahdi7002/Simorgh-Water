@@ -2,8 +2,8 @@
 
 class Settings:
     APP_NAME: str = "Simorgh Water Cycle"
-    APP_VERSION: str = "1.2.0"
-    APP_DESCRIPTION: str = "سیستم جامع مدیریت چرخه آب — هشدار رنگی + اقدام روزانه"
+    APP_VERSION: str = "1.3.0"
+    APP_DESCRIPTION: str = "چرخه آب از آسمان تا روح — هشدار رنگی + اقدام روزانه"
     DEFAULT_CITY: str = "یزد"
     DEFAULT_LAT: float = 31.8974
     DEFAULT_LON: float = 54.3569

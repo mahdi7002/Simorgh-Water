@@ -1,11 +1,9 @@
-"""
-تنظیمات مرکزی سیستم مدیریت چرخه آب سیمرغ
-"""
+"""تنظیمات مرکزی — بدون pydantic-settings"""
 
 class Settings:
     APP_NAME: str = "Simorgh Water Cycle"
-    APP_VERSION: str = "1.0.0"
-    APP_DESCRIPTION: str = "سیستم جامع مدیریت چرخه کامل آب — از آسمان تا روح"
+    APP_VERSION: str = "1.2.0"
+    APP_DESCRIPTION: str = "سیستم جامع مدیریت چرخه آب — هشدار رنگی + اقدام روزانه"
     DEFAULT_CITY: str = "یزد"
     DEFAULT_LAT: float = 31.8974
     DEFAULT_LON: float = 54.3569
